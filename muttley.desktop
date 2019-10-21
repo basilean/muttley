@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Muttley
+Comment=A small business companion
+Exec=./muttley.py
+Icon=./data/ui/muttley.svg
+Path=./
+Terminal=false
+StartupNotify=false
